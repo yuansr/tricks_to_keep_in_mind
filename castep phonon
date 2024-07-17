@@ -1,0 +1,2 @@
+In the CASTEP phonon calculation, the eigenvectors 1. are the cartisian values; 2. should be divided by the sqrt(atomic mass) to get the displacements
+
